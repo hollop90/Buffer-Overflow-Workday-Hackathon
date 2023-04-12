@@ -1,0 +1,48 @@
+Hackathon day before
+
+* Design thinking
+
+* Smart education
+	- helping people with technology
+	- workday will be building an office on grangegorman
+	- investing in cybersecurity
+	- _anything_ that helps _somebody_ learn
+	
+* Step 1 empathise
+	- Research your users needs
+
+* Step 2 define the problem (state your users needs and problems)
+	
+* Step 3 Ideate (think of possible solutions)
+	- Processes/Ideation tools
+		> Whiteboard
+		> Crazy eights (distinct ideas in 8 minutes)
+		
+* Step 4 Prototype
+	- Lo-Fi
+		> Figma
+		> Pen and paper 
+		> etc.
+	- Proof of concept
+	
+* Step 5 Testing (Try your solutions out)
+	- Use the tools and frameworks that you know
+	- The process is cyclical
+	- start 10am lunch 1/2 submissions at 4
+	
+* Lean UX Canvas
+	- Maybe start with the user (pt 3)
+	- 80/20 rule: 20% of the work for 80% of the outcome
+	
+* What they're looking for
+	- Judged as an MVP
+		> Ranked 1st 2nd and 3rd
+		> You have to incorparate all of the below points 	
+								|
+								V
+	- Innovative
+		> Could be already done but your own spin
+	- User exp.
+	- Design
+	- Functionality (actually make something that works/shows off your design)
+	- Commercial viability
